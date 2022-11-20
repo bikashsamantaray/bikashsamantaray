@@ -35,7 +35,7 @@
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikashsamantaray&" alt="bikashsamantaray" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=bikashsamantaray&show_icons=true&locale=en&theme=outrun" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikashsamantaray" alt="bikashsamantaray" /></a> </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=bikashsamantaray&theme=xcode" /   >
